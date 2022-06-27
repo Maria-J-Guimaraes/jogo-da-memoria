@@ -1,2 +1,5 @@
-# Jogo da Memória
-Criação de um jogo da memória com o tema Mario utilizando JavaScript. 
+# Jogo da Memória 🕹️
+
+Olá, Bem vindo ao meu jogo da memória com o tema Mario!
+
+Criado utilizando JavaScript!🤓
